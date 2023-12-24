@@ -1,4 +1,4 @@
-it's a simple ANN implemented from scratch using numpy .
+it's a simple ANN implemented for Classification problem from scratch using numpy .
 
 by going through it , we can easily understand the mathematics  behind neural networks
 
